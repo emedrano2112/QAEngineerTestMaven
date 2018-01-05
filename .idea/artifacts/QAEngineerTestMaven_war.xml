@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QAEngineerTestMaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QAEngineerTestMaven.war">
+      <element id="artifact" artifact-name="QAEngineerTestMaven:war exploded" />
+    </root>
+  </artifact>
+</component>

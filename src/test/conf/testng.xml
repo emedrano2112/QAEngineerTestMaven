@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAEngineerTestMaven Application Test Suite" annotations="1.5">
+    <test name="Unit Tests">
+        <classes>
+            <class name="Tests.FirstTCTest"/>
+            <class name="Tests.SecondTC"/>
+            <class name="Tests.ThirdTC"/>
+        </classes>
+    </test>
+</suite>
