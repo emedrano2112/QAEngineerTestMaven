@@ -42,6 +42,6 @@ public class LetsTalkTea
     public void LetsTalkPageConfirm()
     {
         Assert.assertEquals(driver.findElement(Tittle).getText(), "Let's Talk Tea");
-        System.out.print("MESSAGE SENT SUCCESSFULLY");
+        System.out.println("MESSAGE SENT SUCCESSFULLY");
     }
 }

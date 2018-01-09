@@ -31,6 +31,6 @@ public class Menu
     public void PlaceOrderSucceed()
     {
         Assert.assertEquals(driver.findElement(Tittle).getText(), "Menu");
-        System.out.print("ORDER PLACED");
+        System.out.println("ORDER PLACED");
     }
 }
